@@ -1,0 +1,10 @@
+﻿Módulo convertidor serie USB 2.0 a TTL UART x1
+Cable extensor USB 2.0 macho-hembra x1
+Cable trébol x2
+Relay SPDT x2
+Arduino UNOR3 chip ATMega328P-PU desmontable x1
+Oscilador 16MHz tipo HC49S x1
+Capacitor cerámico 22pF x2
+Resistencias:
+	      1KΩ x1
+	      10KΩ x1
